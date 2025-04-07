@@ -100,3 +100,4 @@ target/
 .idea/
 # final/src/main/java/com/project/app/common/Constants.java
 /.metadata
+**/.metadata/
