@@ -24,6 +24,7 @@ public class ViewConfig {
 		viewResolver.setPrefix("/WEB-INF/views/");
 		viewResolver.setSuffix(".jsp");
 
+		
 		return viewResolver;
 	}
 
