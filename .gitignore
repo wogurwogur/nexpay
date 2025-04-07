@@ -2,6 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse
 
 ### Eclipse ###
+.metadata/
+/.metadata
+**/.metadata/
 .metadata
 bin/
 tmp/
@@ -98,6 +101,3 @@ replay_pid*
 
 target/
 .idea/
-# final/src/main/java/com/project/app/common/Constants.java
-/.metadata
-**/.metadata/
